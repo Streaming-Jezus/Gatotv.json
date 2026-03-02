@@ -1,0 +1,122 @@
+{
+  "guia_canales_gatotv": {
+    "fecha_actualizacion": "2023-11-15",  // Actualizar según la fuente
+    "categorias": [
+      {
+        "nombre": "Abiertos (TDT)",
+        "canales": [
+          {
+            "numero": 1,
+            "nombre": "Las Estrellas",
+            "logo": "https://www.gatotv.com/logos/las_estrellas.png",
+            "categoria": "Generalista",
+            "formato": "SD/HD",
+            "notas": "Canal abierto en TDT (México)"
+          },
+          {
+            "numero": 2,
+            "nombre": "Azteca Uno",
+            "logo": "https://www.gatotv.com/logos/azteca_uno.png",
+            "categoria": "Generalista",
+            "formato": "SD/HD"
+          },
+          {
+            "numero": 5,
+            "nombre": "Canal 5",
+            "logo": "https://www.gatotv.com/logos/canal_5.png",
+            "categoria": "Entretenimiento",
+            "formato": "HD"
+          }
+          // ... (agregar más canales abiertos)
+        ]
+      },
+      {
+        "nombre": "Deportes",
+        "canales": [
+          {
+            "numero": 101,
+            "nombre": "ESPN",
+            "logo": "https://www.gatotv.com/logos/espn.png",
+            "categoria": "Deportes",
+            "formato": "HD",
+            "notas": "Transmite Liga MX, NFL, NBA"
+          },
+          {
+            "numero": 102,
+            "nombre": "Fox Sports",
+            "logo": "https://www.gatotv.com/logos/fox_sports.png",
+            "categoria": "Deportes",
+            "formato": "HD"
+          }
+          // ... (agregar más canales deportivos)
+        ]
+      },
+      {
+        "nombre": "Películas y Series",
+        "canales": [
+          {
+            "numero": 201,
+            "nombre": "HBO",
+            "logo": "https://www.gatotv.com/logos/hbo.png",
+            "categoria": "Cine",
+            "formato": "HD"
+          },
+          {
+            "numero": 205,
+            "nombre": "Cinemex",
+            "logo": "https://www.gatotv.com/logos/cinemex.png",
+            "categoria": "Cine",
+            "formato": "SD"
+          }
+          // ... (agregar más canales de cine/series)
+        ]
+      },
+      {
+        "nombre": "Noticias",
+        "canales": [
+          {
+            "numero": 301,
+            "nombre": "Foro TV",
+            "logo": "https://www.gatotv.com/logos/foro_tv.png",
+            "categoria": "Noticias",
+            "formato": "HD"
+          },
+          {
+            "numero": 302,
+            "nombre": "ADN 40",
+            "logo": "https://www.gatotv.com/logos/adn40.png",
+            "categoria": "Noticias",
+            "formato": "SD"
+          }
+          // ... (agregar más canales de noticias)
+        ]
+      },
+      {
+        "nombre": "Infantiles",
+        "canales": [
+          {
+            "numero": 401,
+            "nombre": "Cartoon Network",
+            "logo": "https://www.gatotv.com/logos/cartoon_network.png",
+            "categoria": "Infantil",
+            "formato": "HD"
+          },
+          {
+            "numero": 402,
+            "nombre": "Disney Channel",
+            "logo": "https://www.gatotv.com/logos/disney_channel.png",
+            "categoria": "Infantil",
+            "formato": "HD"
+          }
+          // ... (agregar más canales infantiles)
+        ]
+      }
+      // ... (agregar más categorías como Música, Documentales, etc.)
+    ],
+    "notas": [
+      "Los números de canal pueden variar según la región o paquete contratado.",
+      "Algunos canales requieren suscripción premium.",
+      "Para la lista oficial y actualizada, visita: https://www.gatotv.com/canales_de_tv"
+    ]
+  }
+      }
